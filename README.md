@@ -2,13 +2,11 @@
 ## Projeto está em desenvolvimento, podem ocorrer alguns erros de tradução.
 ## Introdução
 
-Olá! Esta é uma Tradução do jogo XCOM2 incluindo as DLC:
+Olá! Esta é uma Tradução do jogo XCOM2 incluindo suas expansões, exceto War of the Chosen.
 - Anarchy's Childen
 - Shen Last Gift
 - Alien Hunters
 - Reinforcemant Pack
-
-- Não Inclui War of the Chosen.
 
 
 Já que o jogo não fornece nativamente uma tradução, decidi fazer uma tradução livre pois, eu pretendia fazer uma série desse jogo no youtube, eu não estava encontrando nenhuma tradução adequada.
@@ -29,4 +27,4 @@ Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 
 
 	Está pronto, pode jogar com moderação.
 
-	Caso venha a encontrar algum erro de tradução ou bug, por favor, me reporte com um comentário na aba issues
+	Caso venha a encontrar algum erro de tradução ou bug, por favor, me reporte com um comentário na aba issues.
