@@ -17,13 +17,13 @@ Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 
 
 ### Tutorial de instalação:
 
-1 - Navegue até o seu local de instalação: \Steam\steamapps\common\XCOM 2\XComGame
+	1 - Navegue até o seu local de instalação: \Steam\steamapps\common\XCOM 2\XComGame
 	obs: procure o disco onde a biblioteca de jogos Steam tenha sido instalada.
 
-2 - Faça backup das pastas DLC e Localization, caso queira voltar para o idioma Inglês.
+	2 - Faça backup das pastas DLC e Localization, caso queira voltar para o idioma Inglês.
 	obs: coloque em fora do diretório para evitar possiveis conflitos.
 
-3 - Cole as pastas com a tradução nesse mesmo diretório.
+	3 - Cole as pastas com a tradução nesse mesmo diretório.
 	obs: \Steam\steamapps\common\XCOM 2\XComGame
 
 	Está pronto, pode jogar com moderação.
