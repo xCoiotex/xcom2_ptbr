@@ -1,5 +1,5 @@
-### IMPORTANTE
-# Ainda está em desenvolvimento, podem ocorrer alguns bugs, use por sua conta e risco.
+#IMPORTANTE
+## Projeto está em desenvolvimento, podem ocorrer alguns bugs, use por sua conta e risco.
 
 ## Introdução
 
