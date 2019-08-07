@@ -1,6 +1,5 @@
 # IMPORTANTE
-## Projeto está em desenvolvimento, podem ocorrer alguns bugs, use por sua conta e risco.
-
+## Projeto está em desenvolvimento, podem ocorrer alguns erros de tradução.
 ## Introdução
 
 Olá! Esta é uma Tradução do jogo XCOM2 incluindo as DLC:
