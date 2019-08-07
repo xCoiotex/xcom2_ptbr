@@ -10,6 +10,7 @@ Olá! Esta é uma Tradução do jogo XCOM2 incluindo as DLC:
 
 - Não Inclui War of the Chosen.
 
+
 Já que o jogo não fornece nativamente uma tradução, decidi fazer uma tradução livre pois, eu pretendia fazer uma série desse jogo no youtube, eu não estava encontrando nenhuma tradução adequada.
 Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 em Português.
 
