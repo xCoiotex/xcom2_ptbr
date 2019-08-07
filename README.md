@@ -1,6 +1,5 @@
 # IMPORTANTE
-## Projeto está em desenvolvimento, podem ocorrer alguns bugs, use por sua conta e risco.
-
+## Projeto está em desenvolvimento, podem ocorrer alguns erros de tradução.
 ## Introdução
 
 Olá! Esta é uma Tradução do jogo XCOM2 incluindo as DLC:
@@ -8,7 +7,8 @@ Olá! Esta é uma Tradução do jogo XCOM2 incluindo as DLC:
 - Shen Last Gift
 - Alien Hunters
 - Reinforcemant Pack
-Não Inclui War of the Chosen.
+
+- Não Inclui War of the Chosen.
 
 Já que o jogo não fornece nativamente uma tradução, decidi fazer uma tradução livre pois, eu pretendia fazer uma série desse jogo no youtube, eu não estava encontrando nenhuma tradução adequada.
 Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 em Português.
