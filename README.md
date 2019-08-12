@@ -4,7 +4,7 @@
 
 Olá! Esta é uma Tradução do jogo XCOM2 incluindo suas expansões, exceto War of the Chosen.
 - Anarchy's Childen
-- Shen Last Gift
+- Shen's Last Gift
 - Alien Hunters
 - Reinforcemant Pack
 
