@@ -28,3 +28,4 @@ Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 
 	Está pronto, pode jogar com moderação.
 
 	Caso venha a encontrar algum erro de tradução ou bug, por favor, me reporte com um comentário na aba issues.
+	Se quiser fazer alguma sugestão ou comentário, considere acompanhar o projeto no [Trello](https://trello.com/b/Ru1eYjcb/xcom-2-tradução-ptbr)
