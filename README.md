@@ -10,6 +10,9 @@ Olá! Esta é uma Tradução do jogo XCOM2 incluindo suas expansões, exceto War
 
 
 Já que o jogo não fornece nativamente uma tradução, decidi fazer uma tradução livre pois, eu pretendia fazer uma série desse jogo no youtube, eu não estava encontrando nenhuma tradução adequada.
+
+Caso venha a encontrar algum erro de tradução nos arquivos ou bug, por favor, me reporte com um comentário na aba issues.
+Se quiser fazer alguma sugestão de tradução ou qualquer comentário, considere acompanhar o projeto no [Trello](https://trello.com/b/Ru1eYjcb/xcom-2-tradução-ptbr).
 Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 em Português.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -26,6 +29,3 @@ Espero que goste, compartilhe com outras pessoas que gostariam de jogar o XCOM2 
 	obs: \Steam\steamapps\common\XCOM 2\XComGame
 
 	Está pronto, pode jogar com moderação.
-
-	Caso venha a encontrar algum erro de tradução ou bug, por favor, me reporte com um comentário na aba issues.
-	Se quiser fazer alguma sugestão ou comentário, considere acompanhar o projeto no [Trello](https://trello.com/b/Ru1eYjcb/xcom-2-tradução-ptbr)
