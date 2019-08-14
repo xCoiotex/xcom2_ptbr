@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/FzL3QHY.png" align="center" height="144" alt="XCOM 2 TRADUÇÃO PTBR"/>
+<img src="https://i.imgur.com/5Toa0BH.png" align="center" height="144" alt="XCOM 2 TRADUÇÃO PTBR"/>
 <a href="https://trello.com/b/Ru1eYjcb/xcom-2-tradução-ptbr">
 <img border="0" alt="Trello" src="https://i.imgur.com/yLzTkGf.png" width="104" height="28">
 </a>
