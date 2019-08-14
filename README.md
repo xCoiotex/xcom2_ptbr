@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/FzL3QHY.png" align="center" height="144" alt="XCOM 2 TRADUÇÃO PTBR"/>
+[![Visite o Trello](https://i.imgur.com/9sWg2Wc.png)](https://trello.com/b/Ru1eYjcb/xcom-2-tradução-ptbr)
+
+
 # IMPORTANTE
 ## Projeto está em desenvolvimento, podem ocorrer alguns erros de tradução.
 ## Introdução
